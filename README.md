@@ -1,1 +1,3 @@
-This is my first Frontend Project using HTML and CSS
+QR Code Project
+
+Technologies used : HTML and CSS
