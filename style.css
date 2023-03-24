@@ -7,7 +7,6 @@
 
 .main-container {
     min-height: 100vh ;
-    min-width: 60vh;
     background-color: hsl(212, 45%, 89%);
     display : flex ;
     align-items: center;
