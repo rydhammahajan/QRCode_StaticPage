@@ -1,11 +1,10 @@
 *{
     margin : 0 0 ; 
-    font-family: "Outfit";
-    src: url(./fonts/Outfit.ttf) format("truetype-variations");
+    font-family: "Outfit", sans-serif;
     text-align: center;
 }
 
-.main-container {
+main{
     min-height: 100vh ;
     background-color: hsl(212, 45%, 89%);
     display : flex ;
@@ -20,7 +19,7 @@
     border-radius: 24px;
     display : flex ; 
     flex-direction: column;
-    gap : 10px ;
+    gap : 12px ;
 }
 
 .qr-code {
@@ -28,14 +27,14 @@
 }
 
 .qr-code img {
-    height: 16em;
+    height: 18em;
     width: 90%;
     border-radius: 10px;
 }
 
 .heading{
     font-weight: 900;
-    font-size: 22px;
+    font-size: 16px;
     color: hsl(218, 44%, 22%) ;
     padding: 0.2rem 1.4rem 0 1.4rem ;
 }
